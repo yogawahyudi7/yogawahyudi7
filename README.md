@@ -7,4 +7,4 @@
 My name is Yoga. I'm looking for new challenges and oppurtunities !
 
 - :books: I'm currently learning Golang with a big interest in Backend Development.
-- :mortar_board: For two months, I have attended the Immersive Program at Alterra Academy. During the program, I have learned about Backend Development, such as building a REST-ful API project using Golang, Echo Framework, MySQL, GORM, unit testing, CI/CD and deploying the project on AWS and Okteto.
+- :mortar_board: For 3 months, I have attended the Immersive Program at Alterra Academy. During the program, I have learned about Backend Development, such as building a REST-ful API project using Golang, Echo Framework, MySQL, GORM, unit testing, CI/CD and deploying the project on AWS and Okteto.
